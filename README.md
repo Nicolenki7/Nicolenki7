@@ -2,10 +2,10 @@
 
 **[Portfolio · casos, informes y dashboards →](https://nicolenki7.github.io/Portfolio/)**
 
-**Data Analyst · Aspiring Data Engineer · AI & Agents enthusiast**  
-📍 Mallorca, Spain · Night Auditor at [The Volkers House](https://github.com/Nicolenki7) · Studying **ASIR** (Systems & Network Administration)
+**Data Engineer · Analytics · BI — Microsoft Fabric, Snowflake, Python**  
+📍 Mallorca, Spain · BI/Data consultant at Lumo Digital Solutions · Studying **Bachelor in Computer Science** at UDDI (Universidad Europea group)
 
-I work nights in hospitality operations and build data/AI projects by day — Microsoft Fabric, Snowflake, Python, and practical analytics that turn messy data into decisions.
+I build data platforms and analytics that turn messy data into decisions: Data Mesh on Microsoft Fabric, medallion architectures, Snowflake, Python and Power BI.
 
 ---
 
@@ -13,7 +13,7 @@ I work nights in hospitality operations and build data/AI projects by day — Mi
 - **Data engineering & analytics** — medallion architectures, Fabric, Snowflake, ETL/ELT, Power BI  
 - **Applied ML** — churn, credit risk, sentiment, fraud signals  
 - **AI agents** — automating research, reporting, and ops workflows  
-- **Systems** — ASIR: Linux, networking, and reliable infrastructure
+- **Systems** — Linux, networking and the infrastructure that keeps a pipeline running
 
 ### Certifications
 Google Data Analytics · **DP-600** Microsoft Fabric Analytics Engineer · **AI-900** Azure AI Fundamentals
@@ -45,8 +45,8 @@ More on my [GitHub repos](https://github.com/Nicolenki7?tab=repositories)
 `Python` `SQL` `Microsoft Fabric` `Snowflake` `PySpark` `Power BI` `Streamlit` `Pandas` `scikit-learn` `Git` `Docker` *(learning)* `Linux`
 
 ### Currently
-Building a cleaner public profile, deepening Fabric/Snowflake projects, and exploring **AI agents** for real workflows (study + hotel ops + data).
+Deepening Fabric and Snowflake work, publishing it with reproducible reports, and exploring **AI agents** for real workflows.
 
 ---
 
-📬 Reach me via GitHub or email on my profile · Open to junior data / analytics / engineering opportunities (remote or hybrid EU)
+📬 Reach me via GitHub or email on my profile · Open to junior data and analytics roles (remote or hybrid, EU)
