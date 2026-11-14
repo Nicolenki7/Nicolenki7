@@ -1,5 +1,7 @@
 # Hi, I'm Nicolas Zalazar 👋
 
+**[Portfolio · casos, informes y dashboards →](https://nicolenki7.github.io/Portfolio/)**
+
 **Data Analyst · Aspiring Data Engineer · AI & Agents enthusiast**  
 📍 Mallorca, Spain · Night Auditor at [The Volkers House](https://github.com/Nicolenki7) · Studying **ASIR** (Systems & Network Administration)
 
