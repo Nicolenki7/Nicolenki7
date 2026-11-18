@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas Zalazar 👋
+# Hola, soy Nicolas Zalazar 👋
 
 **[Portfolio · casos, informes y dashboards →](https://nicolenki7.github.io/Portfolio/)**
 
