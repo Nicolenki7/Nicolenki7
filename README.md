@@ -5,7 +5,7 @@
 **Data Engineer · Analytics · BI — Microsoft Fabric, Snowflake, Python**  
 📍 Mallorca, Spain · BI/Data consultant at Lumo Digital Solutions · Studying **Bachelor in Computer Science** at UDDI (Universidad Europea group)
 
-I build data platforms and analytics that turn messy data into decisions: Data Mesh on Microsoft Fabric, medallion architectures, Snowflake, Python and Power BI.
+I build data platforms and analytics that turn data into decisions: Data Mesh on Microsoft Fabric, medallion architectures, Snowflake, Python and Power BI.
 
 ---
 
